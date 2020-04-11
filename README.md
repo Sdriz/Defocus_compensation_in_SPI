@@ -1,4 +1,4 @@
-# Defocusing_in_SPI
+### Defocusing_in_SPI
 Defocus compensation model
 The h5. file can be downloaded to inspect the DCNN model with trained weights, parameters etc.
 
@@ -6,7 +6,7 @@ The h5. file can be downloaded to inspect the DCNN model with trained weights, p
 
 model.summary()
 
-### Load target
+### Load target affect by projector defocusing
 target=io.loadmat('target.mat')
 
 #### Ouput of Model after model load
@@ -39,7 +39,7 @@ tar_container = ['target2',  'target2', 'target3','target4']
 
 tar_dict = {}
 for elm in Who:
-# ####
+####
     tar_load = 'repository/Original_images/' + iter
     tar_dict[iter] = load_dataset(file_location, tar_load)
    
