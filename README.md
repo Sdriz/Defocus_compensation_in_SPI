@@ -1,6 +1,5 @@
 
-                    ###  Deep Learning based defocus compensation               
-                     ###        in Single pixel imaging                       
+   #  Deep Learning based defocus compensation in Single pixel imaging                       
 									  
 									  
 | Author| SRIZVI|
@@ -10,7 +9,7 @@
 | URL| https://github.com/Sdriz/Defocus_compensation_in_SPI|
 
 
-
+## CODE in Python to import and run
 
 ```python
 
