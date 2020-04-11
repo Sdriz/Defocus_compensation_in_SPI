@@ -17,9 +17,9 @@
 
 ```python
 
-### Defocusing_in_SPI MODEL
-Defocus compensation model
-The h5. file can be downloaded to inspect the DCNN model with trained weights, parameters etc.
+
+### Defocus compensation model
+### The h5. file can be downloaded to inspect the DCNN model with trained weights, parameters etc.
 
 ### Model summary 
 model.summary()
