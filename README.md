@@ -3,11 +3,11 @@
                      ###        in Single pixel imaging                       
 									  
 									  
-									  
-Author:  SRIZVI email:srizvi@bit.edu.cn
-License: Academic free license V3 (afl-3.0), see License.txt
-Version: 1.0 
-URL:     https://github.com/Sdriz/Defocus_compensation_in_SPI
+| Author| SRIZVI|
+| --- | --- |
+| License| Academic free license V3 (afl-3.0) |
+| Version | 1.0 |
+| URL| https://github.com/Sdriz/Defocus_compensation_in_SPI|
 
 
 
