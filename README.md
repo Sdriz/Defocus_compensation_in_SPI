@@ -1,5 +1,10 @@
 
-   #  Deep Learning based defocus compensation in Single pixel imaging                       
+#  Deep Learning based defocus compensation in Single pixel imaging                       
+
+## Python code
+###### Please use the code below to load the files and acquire output results
+###### a) Model h5 file
+###### b) the target file
 									  
 									  
 | Author| SRIZVI|
@@ -9,7 +14,6 @@
 | URL| https://github.com/Sdriz/Defocus_compensation_in_SPI|
 
 
-## CODE in Python to import and run
 
 ```python
 
