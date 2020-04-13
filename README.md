@@ -24,7 +24,7 @@
 ### Model summary 
 model.summary()
 
-### Load target affect by projector defocusing
+### Load the target affected by projector defocusing
 
 target=io.loadmat('target.mat')
 
@@ -38,8 +38,8 @@ target=io.loadmat('target.mat')
 
 ### Supplementary
 
-#####Laoding target one by one 
-#different targetscan be loaded from:
+#####Loading target one by one 
+#different targets can be loaded from:
 
 import h5py
 
