@@ -29,7 +29,7 @@ model = load_model('defocus_compensate_model.h5')
 ### Model summary 
 model.summary()
 
-### Load the target affected by projector defocusing
+### Loading the target recostructed by FSI at high projector defocusing
 
 target=io.loadmat('target.mat')
 
@@ -38,7 +38,7 @@ target=io.loadmat('target.mat')
 target=target['img']
 target=(target-np.min(target))/(np.max(target)-np.min(target))
 
-#### Ouput of Model after model load
+#### Ouput of Model on the PDEF effected target
    
 result_target = model.predict(target.reshape(1,96,96,1))
 
