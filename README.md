@@ -23,7 +23,7 @@
 
 
 ### Loading the model file
-model = load_model('defocus_compensate_mopde.h5')
+model = load_model('defocus_compensate_model.h5')
 
 
 ### Model summary 
