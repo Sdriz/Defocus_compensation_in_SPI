@@ -21,6 +21,11 @@
 ### Defocus compensation model
 ### The h5. file can be downloaded to inspect the DCNN model with trained weights, parameters etc.
 
+
+### Loading the model file
+model = load_model('defocus_compensate_mopde.h5')
+
+
 ### Model summary 
 model.summary()
 
