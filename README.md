@@ -33,9 +33,14 @@ model.summary()
 
 target=io.loadmat('target.mat')
 
+### Preprocessing for network
+
+target=target['img']
+target=(target-np.min(target))/(np.max(target)-np.min(target))
+
 #### Ouput of Model after model load
    
-   result_target = model.predict(target.reshape(1,96,96,1))
+result_target = model.predict(target.reshape(1,96,96,1))
 
 ```
 
