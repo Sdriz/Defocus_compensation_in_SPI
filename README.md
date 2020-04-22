@@ -1,5 +1,5 @@
 
-#  Deep Learning based defocus compensation in Single pixel imaging                       
+#  Deep Learning based projector defocus compensation in Single pixel imaging                       
 
 ## Python code
 ###### Please use the code below to load the files and acquire output results
