@@ -14,12 +14,12 @@
 | URL| https://github.com/Sdriz/Defocus_compensation_in_SPI|
 
 ### Code dependencies
-python >= 3.5
-keras
-numpy >= 1.18.0
-scipy
+python >= 3.5, 
+keras, 
+numpy >= 1.18.0, 
+scipy.
 
-
+### Code
 ```python
 
 
