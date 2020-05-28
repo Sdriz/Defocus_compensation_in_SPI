@@ -76,10 +76,10 @@ for elm in Who:
 ```	
 
 
-### DATASET
+### Dataset used
 https://cs.stanford.edu/~acoates/stl10/
 
-### ABSTRACT
+### Abstract
 To be updated
 
 ### Citation
