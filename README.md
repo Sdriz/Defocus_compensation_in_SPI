@@ -1,11 +1,11 @@
 
 #  Deep Learning based projector defocus compensation in Single pixel imaging                       
 
-## Python code
-###### Please use the code below to load the files and compute the output 
+
+###### First download the two files:
 ###### a) Model h5 file
 ###### b) the target file
-									  
+###### Please use the python code below to load the files and compute the output 									  
 									  
 | Author| SRIZVI|
 | --- | --- |
@@ -19,7 +19,7 @@ keras,
 numpy >= 1.18.0, 
 scipy.
 
-### Code
+### Python Code
 ```python
 
 
